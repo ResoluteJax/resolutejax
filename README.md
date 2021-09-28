@@ -25,7 +25,7 @@
 
 Paulo Freire
 
-Sou apaixonado por técnologia, quero expor ao mundo doque sou capaz !
+Sou apaixonado por técnologia, quero expor ao mundo do que sou capaz !
 
 ## Me contate:
 Email: otavio-henrique10@hotmail.com
