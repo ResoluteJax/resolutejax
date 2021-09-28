@@ -1,4 +1,4 @@
-# Olá Sou o Otávio Henrique Filgueiras 🖖
+# Chega mais amigo! Sou o Otávio Henrique🖖
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://br.linkedin.com/in/ot%C3%A1vio-henrique-filgueiras-2746a120a)
 
