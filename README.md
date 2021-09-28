@@ -2,7 +2,7 @@
 [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://br.linkedin.com/in/ot%C3%A1vio-henrique-filgueiras-2746a120a)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=resolutejax&show_icons=true&theme=)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=resolutejax&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resolutejax&layout=compact)](https://github.com/resolutejax/github-readme-stats)
 
 
