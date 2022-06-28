@@ -29,3 +29,4 @@ Sou apaixonado por técnologia, quero expor ao mundo do que sou capaz !
 
 ## Me contate:
 Email: otavio-henrique10@hotmail.com
+linkedin:(Otávio Henrique Filgueiras) ou https://www.linkedin.com/in/ot%C3%A1vio-henrique-filgueiras-2746a120a/
