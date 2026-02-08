@@ -27,10 +27,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resolutelax&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resolutelax&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
+
 
 <br/>
 
