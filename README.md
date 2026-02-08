@@ -47,11 +47,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviohenrique-dev-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenrique-dev-web&layout=compact&theme=tokyonight"/>
-  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding Animation" />
 </div>
 
 <br/>
