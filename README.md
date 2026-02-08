@@ -49,8 +49,8 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviohenrique-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenrique-dev&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviohenrique-dev-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviohenrique-dev-web&layout=compact&theme=tokyonight"/>
   </div>
 </div>
 
